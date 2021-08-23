@@ -11,3 +11,8 @@ If you would like to open this project, you need to:
 5) Type "npm install -g nodemon" to install nodemon, which is a utility that will monitor for any changes in your source and automatically restart the server. 
 6) Then "nodemon server.js" to get the server running on a local host. 
 
+## Video Demonstration
+
+https://user-images.githubusercontent.com/74827533/130414295-ff702d64-7f8d-4f42-9b7b-132eff395a97.mp4
+
+
