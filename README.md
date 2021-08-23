@@ -8,6 +8,6 @@ If you would like to open this project, you need to:
 2) Download the code
 3) Navigate to the folder on terminal
 4) Type "npm install" to install all project dependencies
-5) Type "npm install -g nodemon" to install all project dependencies. 
+5) Type "npm install -g nodemon" to install nodemon, which is a utility that will monitor for any changes in your source and automatically restart the server. 
 6) Then "nodemon server.js" to get the server running on a local host. 
 
